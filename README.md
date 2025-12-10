@@ -1,6 +1,5 @@
 <p align="center"><img width="300" height="168" alt="hdfc" src="https://github.com/user-attachments/assets/8b7b4229-b028-4766-a161-2a1ebf9d89d8" /></p>
 
-
 <p align="center"> <strong>Digital KYC</strong><br/> A fully digitized KYC solution inspired by enterprise-grade banking platforms. </p>
 
 **Executive Summary**
